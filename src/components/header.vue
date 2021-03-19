@@ -30,7 +30,6 @@ header {
 		z-index: 1000;
 		display: flex;
 		align-items: center;
-		justify-content: center;
 		> div {
 			height: 30px;
 			padding: 2px;
@@ -63,6 +62,14 @@ header {
 					letter-spacing: 1px;
 				}
 			}
+		}
+	}
+}
+
+@media screen and (max-width: 780px) {
+	header {
+		> div {
+			justify-content: center;
 		}
 	}
 }

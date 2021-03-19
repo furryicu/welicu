@@ -27,7 +27,7 @@ footer {
 		position: relative;
 		display: flex;
 		align-items: center;
-		justify-content: center;
+		margin-left: 42px;
 		> p,
 		span {
 			line-height: 28px;
@@ -61,6 +61,7 @@ footer {
 			padding-left: unset;
 			width: 100%;
 			text-align: center;
+			margin-left: unset;
 			.Nbsp {
 				display: none;
 			}
