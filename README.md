@@ -1,15 +1,16 @@
-<p align="center">
-  <a href="https://furry.icu">
-    <img alt="furryicu" src="./public/favicon.ico" style="width: 55px; height: 55px;">
-  </a>
-</p>
+<a href="https://furry.icu">
+    <img alt="furryicu" src="./public/favicon.ico" style="width: 60px; height: 60px;" align="left">
+</a>
 
-<p align="center">
-「 拾兽一 - FURRY ICU 」
-</p>
-<p align="center">
-网站起始页仓库
-</p>
+<div align="left">
+
+# 「 拾兽一 - FURRY ICU 」
+
+**_<a href="https://furry.icu">FURRY.ICU</a>_** / ✨ 网站起始页仓库
+
+</div>
+
+<hr />
 
 > Vite + Vue3
 
